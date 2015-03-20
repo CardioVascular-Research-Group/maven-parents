@@ -61,6 +61,7 @@
 	    <module>../../Phlilips1.04</module>
 	    <module>../../jsierraecg</module>
 	    <module>../../schiller-data</module>
+	    <module>../../hl7aECG</module>
 	    <module>../../cvrg-dataStorage</module>
 	    <module>../../liferay-ws-client</module>
 	    <module>../../cvrg-services</module>
