@@ -58,7 +58,7 @@
 	    <module>../../cvrg-annotations</module>
 	    <module>../../waveform-utilities</module>
 	    <module>../../ECG_Converter4</module>
-	    <module>../../Philips1.04</module>
+	    <module>../../Phlilips1.04</module>
 	    <module>../../jsierraecg</module>
 	    <module>../../schiller-data</module>
 	    <module>../../hl7aECG</module>
