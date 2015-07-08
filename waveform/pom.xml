@@ -32,11 +32,26 @@
 	      <organization>Institute for Computacional Medicine</organization>
 	      <organizationUrl>http://icm.jhu.edu/</organizationUrl>
 	      <roles>
-		<role>Software Engineer</role>
+			<role>Software Engineer</role>
 	      </roles>
 	      <timezone>-3</timezone>
 	      <properties>
-		<picUrl>http://admin.icm.jhu.edu/files/webform/profile_photos/IMG_2362-andre-vilardo-300x200px.png</picUrl>
+			<picUrl>http://admin.icm.jhu.edu/files/webform/profile_photos/IMG_2362-andre-vilardo-300x200px.png</picUrl>
+	      </properties>
+	    </developer>
+	    <developer>
+	      <id>cjurado2</id>
+	      <name>Christian Jurado</name>
+	      <email>cjurado2@jhu.edu</email>
+	      <organization>Institute for Computacional Medicine</organization>
+	      <organizationUrl>http://icm.jhu.edu/</organizationUrl>
+	      <roles>
+			<role>Software Engineer</role>
+			<role>Team Leader</role>
+	      </roles>
+	      <timezone>-3</timezone>
+	      <properties>
+			<picUrl>http://admin.icm.jhu.edu/files/webform/profile_photos/jurado_full_11.jpg</picUrl>
 	      </properties>
 	    </developer>
 	</developers>
@@ -57,7 +72,7 @@
 	    <module>../../cvrg-analysisHub</module>
 	    <module>../../cvrg-annotations</module>
 	    <module>../../waveform-utilities</module>
-	    <module>../../ECG_Converter4</module>
+	    <module>../../cvrg-ecg-converter</module>
 	    <module>../../Phlilips1.04</module>
 	    <module>../../jsierraecg</module>
 	    <module>../../schiller-data</module>
